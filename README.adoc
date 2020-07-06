@@ -2,4 +2,9 @@ exquisite-corpse1
 ------------------
 - The little sheep ran into the woods, and got lost.
 - WARNING: Pay attention little sheep.
-- There is hiding something in the woods. 
+- There is hiding something in the woods.
+
+== Into the woods
+A witch tasks a childless baker and his wife with procuring *magical* items from classic _fairy_ tales to reverse the curse put on their family tree.
+.Synopsis
+* A Baker and his wife live in a village where they all wish for something they can't have. The Baker and his Wife wish for a child, but they soon find out that because of a family curse they can't have any children until they find multiple things for the witch that cursed them in the first place. 
