@@ -1,5 +1,5 @@
 exquisite-corpse1
 ------------------
--The little sheep ran into the woods, and got lost.
-WARNING: Pay attention little sheep.
--There is hiding something in the woods. 
+- The little sheep ran into the woods, and got lost.
+- WARNING: Pay attention little sheep.
+- There is hiding something in the woods. 
